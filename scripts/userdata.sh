@@ -15,7 +15,7 @@ aws configure set region us-east-1
 mkdir -p /var/www
 
 # update me
-git clone https://git-codecommit.us-east-1.amazonaws.com/v1/repos/Simple-Flask-Autoscaling /var/www
+git clone https://github.com/vivekbagul02/web_app.git /var/www
 
 cd /var/www
 
